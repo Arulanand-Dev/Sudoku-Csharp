@@ -6,4 +6,5 @@ Tech Stacks:
   Windows Form 
   C#
   
-  ![Uploading image.png…]()
+ ![image](https://user-images.githubusercontent.com/61261809/172050106-c65ab737-b45b-4763-ae17-a84689303735.png)
+
